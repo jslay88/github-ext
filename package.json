@@ -1,0 +1,16 @@
+{
+  "name": "github-pr-sidebar-extension",
+  "version": "1.0.0",
+  "description": "Chrome extension for GitHub PR sidebar",
+  "main": "content.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "@types/chrome": "^0.0.283",
+    "ts-loader": "^9.5.1",
+    "typescript": "^5.2.2",
+    "webpack": "^5.96.1",
+    "webpack-cli": "^5.1.4"
+  }
+}
